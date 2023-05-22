@@ -3,5 +3,5 @@ SpeechRecognition
 pyaudio
 pydub
 openai-whisper
-pyChatGPT @ git+https://github.com/hesiod-au/pyChatGPT@v0.3-vanilla
+pyChatGPT @ git+https://github.com/hesiod-au/pyChatGPT@v0.6-vanilla
 pyperclip
