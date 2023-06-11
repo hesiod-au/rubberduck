@@ -68,7 +68,7 @@ def cycle_out_file():
     after_write_action(settings.PLUGIN)
 
 
-def do_code_reflection(api):
+def do_code_reflection(api, message):
     time.sleep(3)
     code_reflection_message = "Analyze your previous code output as an "\
     "expert software developer. Look for any errors in the code or ways in "\
